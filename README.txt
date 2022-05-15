@@ -1,0 +1,1 @@
+Exercícios de algoritmo (resolvidos) que foram propostos no curso Lógica e Programação 2022 da Udemy.
