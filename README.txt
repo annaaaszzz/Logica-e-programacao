@@ -1,1 +1,1 @@
-Exercícios que realizei nos quais foram propostos no curso Lógica e Programação 2022 da Udemy.
+Exercícios de algoritmo que realizei. Propostos no curso Lógica e Programação 2022 da Udemy.
