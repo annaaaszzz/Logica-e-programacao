@@ -10,7 +10,6 @@ Inicio
       
       para i de 1 ate x faca
            se i % 2 <> 0 entao
-              impar <- impar + i
               escreval(i)
            fimse
       fimpara
