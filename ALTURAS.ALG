@@ -47,7 +47,7 @@ Inicio
         fimse
    fimpara
    
-   escreval("Pessoas com menos de 16 anos: ", percentual:2:1, "%")
+   escreval("Pessoas com menos de 16 anos: ", percentual:4:1, "%")
    
    para i de 0 ate n-1 faca
         se (idade[i]) < 16 entao
